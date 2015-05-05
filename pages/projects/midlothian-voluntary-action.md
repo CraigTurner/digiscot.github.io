@@ -4,7 +4,7 @@ title: Getting IT
 excerpt: This project will upskill organisations to help them to support people who have little or no experience in using the internet.
 lead: Midlothian Voluntary Action 
 website: http://www.mvacvs.org/ 
-email: info@example.com
+email: craig.turner@mvacvs.org.uk
 twitter-url: MVACommunity
 facebook-url: www.facebook.com/MidlothianVoluntaryAction 
 start: February 2015
